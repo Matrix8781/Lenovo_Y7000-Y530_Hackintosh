@@ -19,7 +19,7 @@
 				<key>FixIPIC</key>
 				<true/>
 				<key>FixMutex</key>
-				<true/>
+				<false/>
 				<key>FixRTC</key>
 				<true/>
 				<key>FixRegions</key>
@@ -215,7 +215,7 @@
 		<key>FixHeaders</key>
 		<true/>
 		<key>HaltEnabler</key>
-		<true/>
+		<false/>
 		<key>SSDT</key>
 		<dict>
 			<key>DropOem</key>
@@ -411,7 +411,7 @@
 	<key>SystemParameters</key>
 	<dict>
 		<key>InjectKexts</key>
-		<string>Detect</string>
+		<string>Yes</string>
 		<key>InjectSystemID</key>
 		<true/>
 	</dict>
