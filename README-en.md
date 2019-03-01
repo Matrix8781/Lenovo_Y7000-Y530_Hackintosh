@@ -25,7 +25,7 @@ Tips: Y7000/Y530 does not have whitelist upon WLAN hardware, you even do not nee
 
 ## Full Compatibility
 - Boot clover with UEFI mode
-- Built-in keyboard (Function key and Num keyboard works well, Thanks for tech support from netizen "Dagouzi")
+- Built-in keyboard (Function key and Num keyboard works well)
 - native USB3 / USB2 ports 
 - AppleHDA native audio, Speakers + Internal Mic + Headphone
 - Built in Camera
