@@ -215,7 +215,7 @@
 		<key>FixHeaders</key>
 		<true/>
 		<key>HaltEnabler</key>
-		<false/>
+		<true/>
 		<key>SSDT</key>
 		<dict>
 			<key>DropOem</key>
